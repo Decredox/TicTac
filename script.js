@@ -11,9 +11,9 @@ var interval;
 
 
 function Relogio() {
-  var tic = new Audio('src/Tic.mp3');
+  var tic = new Audio('Tic.mp3');
  
-  var tac = new Audio('src/Tac.mp3');
+  var tac = new Audio('Tac.mp3');
 
   if (cond) {
 
